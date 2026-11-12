@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "aar.ecowell.app",
+      "sha256_cert_fingerprints": [
+        "C9:00:2D:00:EC:BB:97:1E:B3:19:6F:CA:B2:E0:40:67:D4:98:2F:73:32:A7:33:18:A4:5F:C9:90:85:3C:C3:D3",
+        "CB:54:1E:A1:58:C0:B3:CB:53:D6:EA:16:4E:3A:C5:FB:28:C9:EC:6C:83:21:BB:42:CE:B5:46:3F:8E:2C:29:18"
+      ]
+    }
+  }
+]
