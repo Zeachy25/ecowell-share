@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/post/:id", "destination": "/api/post?id=:id" }]
+}
